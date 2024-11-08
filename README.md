@@ -2,4 +2,4 @@
 
 This is syne domo file
 <br>
-owner Vinayak Kamble
+owner Vinayak Kamble (synechorn)
